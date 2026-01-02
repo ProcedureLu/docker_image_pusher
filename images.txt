@@ -7,3 +7,4 @@
 #redis
 #golang
 #mysql
+postgres:14
